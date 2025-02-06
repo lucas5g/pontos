@@ -30,6 +30,11 @@ export default function Home() {
           value='Salvar'
         // disabled={hoursWorked !== 8}
         />
+
+        <Button
+          value='Limpar'
+        // disabled={hoursWorked !== 8} 
+        />
       </div>
 
     </form>
